@@ -1,4 +1,5 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Arpit+Welcome+to+my+Github+Profile!" align="middle" alt="Hi, I am Arpit! 👋 Welcome to my GitHub Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Arpit+Welcome+to+my+GitHub+Profile!" alt="Hi, I am Arpit! 👋 Welcome to my GitHub Profile!">
+
 
 Frontend Software Engineer with skills in JavaScript, ReactJS. Strong analytical and problem-solving skills to create data-driven products. Passionate about making world a better place with the use of technology and open source contributions.
 
